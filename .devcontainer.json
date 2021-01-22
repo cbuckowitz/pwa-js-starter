@@ -5,7 +5,8 @@
 	"extensions": [
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
-    "gruntfuggly.todo-tree"
+    "mhutchie.git-graph",
+    "gruntfuggly.todo-tree",
   ],
 
   "postCreateCommand": "yarn global add live-server",
