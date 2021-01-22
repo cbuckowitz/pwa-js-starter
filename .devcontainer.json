@@ -1,0 +1,13 @@
+{
+  "name": "pwa-js-starter",
+  "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:14",
+
+	"extensions": [
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "gruntfuggly.todo-tree"
+  ],
+
+  "postCreateCommand": "yarn global add live-server",
+ 
+}
